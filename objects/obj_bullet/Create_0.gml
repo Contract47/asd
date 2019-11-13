@@ -1,3 +1,2 @@
-damage = 0;
-
-motion_set(direction,speed);
+phy_bullet   = true;
+damage		 = 0;

@@ -1,4 +1,4 @@
-bullet_speed    = 40;
+bullet_speed    = 40000;
 firing_time_max = 10;
 firing_timeout  = 0;
 reload_time     = 100;

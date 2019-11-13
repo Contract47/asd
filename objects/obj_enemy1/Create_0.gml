@@ -1,2 +1,2 @@
 life   = 100;
-damage = 0;
+damage = 20;
